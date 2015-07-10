@@ -1,0 +1,9 @@
+{
+  "name": "roachrancher",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.0", 
+    "gulp-webserver": "^0.9.1"
+  }
+}
